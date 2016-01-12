@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  why
-date:   2016–01-11 10:50:16
+date:   
 description: just some background on why i’m doing this
 ---
 I’m not the first person in my family to have discovered Jekyll (at least by that name) but I am the first to have a GitHub. I’m an annoying mother nagging a son to prepare to apply for jobs, and I am also a “lead by example” sort of person. So here we are. Not to mention that somewhere along the way my old website disappeared when I wasn’t looking so I have to start from scratch.
