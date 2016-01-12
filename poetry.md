@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /poetry/
-title: poetry
-description: Showcase your writing, short stories, or poems. Replace this text with your description.
+title: creatives
+description: Creative writing, mostly fiction, some poetry.
 ---
 
 <ul class="post-list">
