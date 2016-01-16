@@ -2,7 +2,7 @@
 layout: post
 title:  why
 date:   2016-01-11 11:50:05
-description: just some background on why i’m doing this
+description: some background on why i’m doing this
 ---
 I’m not the first person in my family to have discovered Jekyll (at least by that name) but I am the first to have a GitHub. I’m an annoying mother nagging a son to prepare to apply for jobs, and I am also a “lead by example” sort of person. So here we are. Not to mention that somewhere along the way my old website disappeared when I wasn’t looking so I have to start from scratch.
 
@@ -20,4 +20,4 @@ I’m not the first person in my family to have discovered Jekyll (at least by t
 
 <hr>
 <br/>
-But seriously, I had been looking for a way to get more comfortable with some new tech and needed to update my online presence anyway. And I am truly the hippest in a household of geeks.
+But seriously, I had been looking for a way to get more comfortable with some new tech and needed to update my online presence anyway. And I am truly the hippest in a household of nerds.
