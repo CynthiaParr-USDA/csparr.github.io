@@ -18,10 +18,10 @@ She enjoys photography, reading, Scrabble(TM), birding, and mentoring young peop
 	<a href="https://www.linkedin.com/in/cyndy-parr-745287" target="_blank"><i class="fa fa-linkedin-square"></i></a>
 	<a href="https://twitter.com/cydparr" target="_blank"><i class="fa fa-twitter-square"></i></a>
 	<a href="https://www.flickr.com/photos/cyanocorax/" target="_blank"><i class="fa fa-flickr-square"></i><a> 
-	<!--	<a href="skype:cyndy.parr?call" target="_blank"><i class="fa fa-skype-square"></i></a> -->
+	<!-- <a href="skype:cyndy.parr?call" target="_blank"><i class="fa fa-skype-square"></i></a> -->
 </span>
 
 <div class="col three caption">
-	Gmail is probably the best way to reach me. I wish I had Skype and Flickr icons.
+	Gmail is probably the best way to reach me. 
 </div>
 
