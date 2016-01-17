@@ -23,7 +23,7 @@ I’m not the first person in my family to have discovered Jekyll (at least by t
 But seriously, I had been looking for a way to get more comfortable with some new tech and needed to update my online presence anyway. And I am truly the hippest in a household of nerds.
 
 <div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/11.jpg" alt="" title="xkcd: Exploits of a mom"/>
+	<img class="col three" src="{{ site.baseurl }}/img/13.jpg" alt="" title="xkcd: Exploits of a mom"/>
 </div>
 <div class="col three caption">
 	Courtesy <a href="https://xkcd.com/327/">xkcd.com</a>. 
