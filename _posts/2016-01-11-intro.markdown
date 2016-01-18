@@ -13,7 +13,7 @@ I’m not the first person in my family to have discovered Jekyll (at least by t
 	<li>Change the title, font color, etc.</li>
 	<li>Change “poetry” to “creatives”</li>
 	<li>Fix the about page</li>
-      <li>Strip out all the old content</li>
+        <li>Strip out all the old content</li>
 	<li>Add some new content</li>
 	<li>Decide that I really should use a better editor</li>
 </ul>
@@ -23,7 +23,8 @@ I’m not the first person in my family to have discovered Jekyll (at least by t
 But seriously, I had been looking for a way to get more comfortable with some new tech and needed to update my online presence anyway. And I am truly the hippest in a household of nerds.
 
 <div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/13.jpg" alt="" title="xkcd: Exploits of a mom"/>
+	<img class="col three" src=“http://imgs.xkcd.com/comics/exploits_of_a_mom.png 
+” alt=“A mom talks on the phone to a school” title="xkcd: Exploits of a mom"/>
 </div>
 <div class="col three caption">
 	Courtesy <a href="https://xkcd.com/327/">xkcd.com</a>. 
