@@ -22,8 +22,7 @@ I’m not the first person in my family to have discovered Jekyll (at least by t
 <br/>
 But seriously, I had been looking for a way to get more comfortable with some new tech and needed to update my online presence anyway. And I am truly the hippest in a household of nerds.
 
-	<img src=“http://imgs.xkcd.com/comics/exploits_of_a_mom.png 
-” alt=“A mom talks on the phone to a school” title="xkcd: Exploits of a mom"/>
+	<img src=“http://imgs.xkcd.com/comics/exploits_of_a_mom.png” alt=“A mom talks on the phone to a school” title="xkcd: Exploits of a mom"/>
 
 <div class="col three caption">
 	Courtesy <a href="https://xkcd.com/327/">xkcd.com</a>. 
