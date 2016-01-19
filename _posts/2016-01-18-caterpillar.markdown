@@ -9,9 +9,8 @@ At the moment, it seems to take forever for any of us to make sufficient progres
 <br/>
 
 
-<div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/caterpillar.JPG”>
-</div>
+![A brown hairy caterpillar](/img/caterpillar.JPG)
+
 <div class="col three caption">
 	This hairy caterpillar navigates a bench made of recycled plastic in Costa Rica in 2010. 
 </div>
