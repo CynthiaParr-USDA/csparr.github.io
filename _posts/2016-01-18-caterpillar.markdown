@@ -8,7 +8,9 @@ At the moment, it seems to take forever for any of us to make sufficient progres
 <hr>
 <br/>
 
-<img src="/img/caterpillar.JPG" width=400>
+<div class="col three">
+<img src="/img/caterpillar.JPG>
+</div>
 
 ![A brown hairy caterpillar](/img/caterpillar.JPG)
 
