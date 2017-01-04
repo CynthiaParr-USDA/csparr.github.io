@@ -4,7 +4,7 @@ title:  counting stuff
 date:   2017-01-03 20:30:05
 description: notes from reading
 ---
-In college I used to make tick marks on a wall to count sirens I heard. Lots of people like to count things, according to a recent[Bioscience review](http://bioscience.oxfordjournals.org/content/66/12/1013.full)
+In college I used to make tick marks on a wall to count sirens I heard. Lots of people like to count things, according to a recent [Bioscience review](http://bioscience.oxfordjournals.org/content/66/12/1013.full)
 
 Scientists have recently estimated that there are more than 3 trillion trees on earth -- that's 422 trees per person. That seems like a lot of trees. It is amazing that such an estimate is even possible. Apparently with remote sensing it is becoming even more possible to narrow down the [identity of all those trees](http://www.tandfonline.com/doi/abs/10.1080/07038992.2016.1207484).  And, with estimates of wood density, it becomes possible to project the carbon storage potential of forests, and different kinds of forests.
 
