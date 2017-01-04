@@ -36,6 +36,7 @@ $teal_green: #006666;
 $grey-color-dark: #333;   /* footer */
 $grey-color-light: #ddd;  /* navigation bar border */
 $text-color:     #666;
+$link-color:    $blue;
 
 /* Set theme color *************************/
 $theme-color:   $teal_green;
@@ -123,9 +124,8 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-    color: $text-color;
-    /* text-decoration: none;
-    */
+    color: $link-color;
+    text-decoration: none;
     
     &:visited {
         color: darken($brand-color, 15%); 
