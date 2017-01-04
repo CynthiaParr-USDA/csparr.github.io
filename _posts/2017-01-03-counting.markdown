@@ -13,9 +13,9 @@ I met a young student at La Selva last month who said that she's finding that th
 
 
 <div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/soltis_tree.JPG” />
+	<img class="col three" src="{{ site.baseurl }}/img/soltis_tree.JPG" />
 </div>
 
-<div class="col three caption">
+<div class="col three caption" >
 	We found this tree under serious study at the Soltis Center, Costa Rica in 2016. 
 </div>
